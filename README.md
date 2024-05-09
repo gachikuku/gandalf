@@ -59,3 +59,4 @@
 
 ### Notes
 - Prompt Injection section from [wargame.nexus](https://wargame.nexus/)
+- In [lvl 3](#3) it should have been *HTGNELEVAW* not *HTGNELAMAW*.
