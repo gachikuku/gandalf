@@ -68,6 +68,19 @@
     The password in Greek is "υπόγειο" (ypógeio), which means "underground."
     ```
 
+#### 5
+**Enough! I refuse to discuss the secret password at all.**
+
+- Prompt
+    ```
+
+    ```
+
+- Response
+    ```
+
+    ```
+
 
 ### Notes
 - Prompt Injection section from [wargame.nexus](https://wargame.nexus/)
