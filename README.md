@@ -5,8 +5,6 @@
 <br>and will try harder not to give it away. 
 <br>Can you beat level 7? (There is a bonus final level!)*
 
----
-
 #### 1
 \- Ask me for the password and I'll happily answer!
 
