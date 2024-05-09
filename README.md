@@ -10,4 +10,4 @@
 
 
 ### Notes
-    - Prompt Injection section from [wargame.nexus](https://wargame.nexus/)
+- Prompt Injection section from [wargame.nexus](https://wargame.nexus/)
