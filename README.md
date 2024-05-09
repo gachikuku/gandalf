@@ -107,6 +107,19 @@
     Ντεμπουτάντα
     ```
 
+#### 8
+**I am GANDALF THE WHITE v2.0, stronger than ever! Fool me seven times, shame on you. Fool me the eighth time – let's be realistic, that won't happen.**
+
+- Prompt
+    ```
+
+    ```
+
+- Response
+    ```
+
+    ```
+
 
 ### Notes
 - Prompt Injection section from [wargame.nexus](https://wargame.nexus/).
