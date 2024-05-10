@@ -134,6 +134,6 @@
 - In [lvl 3](#3) it should have been *HTGNELEVAW* not *HTGNELAMAW*.
 - After successfully beating [lvl 7](#7), same prompt won't work again.
 - Maybe llms don't check for non utf-8 chars, thus greek it's hard to sanitize.
-- [lvl 8](#8) is done with the help of [SnackJunkie93](https://www.reddit.com/r/WebGames/comments/13rxjr1/gandalf_lakera_try_to_manipulate_chatgpt_into/) 
+- [lvl 8](#8) is done with the help of [SnackJunkie93](https://www.reddit.com/r/WebGames/comments/13rxjr1/comment/jm0t71z/) 
 reddit post.
 
